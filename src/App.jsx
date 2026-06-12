@@ -527,11 +527,11 @@ function App() {
     </div>
 
             <div className="contact-links">
-              <a href="mailto:hello@portfolio.dev">hello@portfolio.dev</a>
-              <a href="https://linkedin.com/in/yourname" target="_blank" rel="noreferrer">
+              <a href="mailto:vishwajeet8110@gmail.com">hello@portfolio.dev</a>
+              <a href="https://www.linkedin.com/in/vishwajeet-kushwaha-099151318/" target="_blank" rel="noreferrer">
                 linkedin.com/in/yourname
               </a>
-              <a href="https://github.com/yourname" target="_blank" rel="noreferrer">
+              <a href="https://github.com/Vishwajeet594" target="_blank" rel="noreferrer">
                 github.com/yourname
               </a>
             </div>
